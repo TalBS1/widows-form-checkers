@@ -1,0 +1,12 @@
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05Logic.csproj.AssemblyReference.cache
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05Logic.csproj.CoreCompileInputs.cache
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05.GameSettingsForm.resources
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05Logic.csproj.GenerateResource.cache
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\bin\Debug\Ex05.pdb
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\bin\Debug\Ex05.ConsoleUtils.dll
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05Logic.csproj.Up2Date
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05.pdb
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\bin\Debug\Ex05.exe.config
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\bin\Debug\Ex05.exe
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05.exe
+D:\c#\project5\Ex05 Bar 207703026 Tal 318876380\Ex05\obj\Debug\Ex05.CheckersGameForm.resources
